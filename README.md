@@ -1,5 +1,6 @@
 # machine-learning---challenge
 
+![exoplanets.jpg](Images/exoplanets.jpg)
 
 # Background
 
